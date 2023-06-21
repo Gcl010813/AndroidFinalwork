@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyApplication2</string>
+    <string name="enter_meal_description">Enter meal description</string>
+    <string name="enter_meal_name">Enter meal name</string>
+    <string name="add_meal">Add Meal</string>
+</resources>
